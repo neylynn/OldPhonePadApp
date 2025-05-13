@@ -28,10 +28,10 @@ cd OldPhonePadApp
 # Build the project
 dotnet build
 
-# Run the app [go to OldPhonePadApp]
+# Run the app [go to /OldPhonePadApp]
 dotnet run
 
-# Run the app [go to OldPhonePadApp.Tests]
+# Test the app [go to /OldPhonePadApp.Tests]
 dotnet test
 
 
